@@ -1,5 +1,8 @@
 *.class
 
+# Lets not load subfolders due to our project structure
+*/
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
